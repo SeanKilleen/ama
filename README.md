@@ -2,7 +2,7 @@
 
 ## [Ask a question](../../issues/new) &nbsp;&nbsp;&nbsp; [Read questions](../../issues?q=is%3Aissue+is%3Aclosed)
 
-My name is Sean Killeen. I'm [@sjkilleen](https://twitter.com/sjkilleen) on Twitter.
+My name is Sean Killeen. I'm [@sjkilleen](https://twitter.com/sjkilleen) on Twitter. You can also find me on [my site](http://SeanKilleen.com), [LinkedIn](http://LinkedIn.com/in/SeanKilleen), [StackOverflow](https://stackoverflow.com/users/316847/seankilleen), etc. etc.
 
 I get a lot of questions by email. This way anyone can read the answer!
 
