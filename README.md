@@ -2,7 +2,7 @@
 
 ## [Ask a question](../../issues/new) &nbsp;&nbsp;&nbsp; [Read questions](../../issues?q=is%3Aissue+is%3Aclosed)
 
-My name is Scott Hanselman. I'm [@shanselman](https://twitter.com/shanselman) on Twitter.
+My name is Sean Killeen. I'm [@sjkilleen](https://twitter.com/sjkilleen) on Twitter.
 
 I get a lot of questions by email. This way anyone can read the answer!
 
